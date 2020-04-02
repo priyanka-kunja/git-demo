@@ -3,4 +3,6 @@
 This is the first file in this repo
 
 ## website Contents
-1. index.txt
+
+ere are the files in the website
+1. index.html
